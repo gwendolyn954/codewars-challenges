@@ -8,4 +8,4 @@
 // 35231 => [1,3,2,5,3]
 // 0 => [0]
 
-
+// P: Give positive num (also 0). Break that number into an array where each num is an element.  Then reverse that array & return it.
