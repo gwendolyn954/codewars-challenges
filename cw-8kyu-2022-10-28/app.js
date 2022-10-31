@@ -11,3 +11,6 @@
 // P: Give positive num (also 0). Break that number into an array where each num is an element.  Then reverse that array & return it.
 
 //Solution: 
+function digitize(n) {
+    return String(n).split('').map(Number).reverse()
+  }
