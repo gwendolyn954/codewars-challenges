@@ -13,7 +13,4 @@
 //Make num a string, split string into array, reverse array, return reversed array
 
 //Solution: 
-function digitize(n) {
-    return String(n).split('').map(Number).reverse()
-  }
   
