@@ -11,8 +11,3 @@
 // P: Give positive num (also 0). Break that number into an array where each num is an element.  Then reverse that array & return it.
 
 //Solution: 
-
-
-//Make num a string, split string into array, reverse array, return reversed array
-
-//Solution: 
